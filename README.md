@@ -1,5 +1,7 @@
 # Hi, I'm Dnyaneshwar 👋
 ### Data Analyst · Pune, India
+### 📊 [Explore my Data Analytics Portfolio](https://imperfectt2513.github.io)
+*(SQL · Power BI · Python · ETL)*
 
 Self-driven CS undergrad building end-to-end analytics projects — from raw data to business insights.  
 Currently seeking **entry-level Data Analyst roles** in Pune.
